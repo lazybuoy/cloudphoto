@@ -102,6 +102,24 @@ main{
 }
 
 
+.btn2{
+    padding: 0.5rem 2rem;
+    border: 2.5px #cccccc solid;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #333333;
+    transition: background 500ms ease;
+    font: outline;
+    font-weight: bold;
+}
+.btn2:hover{
+    background: #7AD7F0;
+    border: 1.5px #333333 solid;
+}
+
+
 
 
 
